@@ -23,22 +23,22 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="OptionBasedLibrary v0.7.9">
-      <HintPath>..\..\..\..\..\Program Files\paint.net\Effects\OptionBasedLibrary v0.7.9.dll</HintPath>
+      <HintPath>C:\Program Files\paint.net\Effects\OptionBasedLibrary v0.7.9.dll</HintPath>
     </Reference>
     <Reference Include="PaintDotNet.Base">
-      <HintPath>..\..\..\..\..\Program Files\paint.net\PaintDotNet.Base.dll</HintPath>
+      <HintPath>C:\Program Files\paint.net\PaintDotNet.Base.dll</HintPath>
     </Reference>
     <Reference Include="PaintDotNet.Core">
-      <HintPath>..\..\..\..\..\Program Files\paint.net\PaintDotNet.Core.dll</HintPath>
+      <HintPath>C:\Program Files\paint.net\PaintDotNet.Core.dll</HintPath>
     </Reference>
     <Reference Include="PaintDotNet.Data">
-      <HintPath>..\..\..\..\..\Program Files\paint.net\PaintDotNet.Data.dll</HintPath>
+      <HintPath>C:\Program Files\paint.net\PaintDotNet.Data.dll</HintPath>
     </Reference>
     <Reference Include="PaintDotNet.Effects">
-      <HintPath>..\..\..\..\..\Program Files\paint.net\PaintDotNet.Effects.dll</HintPath>
+      <HintPath>C:\Program Files\paint.net\PaintDotNet.Effects.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase">
-      <HintPath>..\..\..\..\..\Program Files\paint.net\WindowsBase.dll</HintPath>
+      <HintPath>C:\Program Files\paint.net\WindowsBase.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
